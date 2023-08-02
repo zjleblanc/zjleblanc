@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 📖 **Blogs**
-- 🏗️&nbsp;&nbsp;[Automated Execution Environment Builds](https://autodotes.com/posts/RcFAYQ5hdYvULmpPLCo8)
-- 🧹&nbsp;&nbsp;[Writing Custom Ansible Lint Rules](https://autodotes.com/posts/NZtynI0C7Pk0sdoRGnJa)
-- 💽&nbsp;&nbsp;[Use Ansible to Install SQL Server on Windows](https://autodotes.com/posts/IdRTF41usMCpBJv7hb3W)
-- 🗺️&nbsp;&nbsp;[Map Azure AD Groups to Organization Admins](https://autodotes.com/posts/KBQBkmBTwGvThdimQTnI)
-- ...&nbsp;&nbsp;👓 [Check out the rest](https://autodotes.com/posts)
+- 🏗️&nbsp;&nbsp;&nbsp;[Automated Execution Environment Builds](https://autodotes.com/posts/RcFAYQ5hdYvULmpPLCo8)
+- 🧹&nbsp;&nbsp;&nbsp;[Writing Custom Ansible Lint Rules](https://autodotes.com/posts/NZtynI0C7Pk0sdoRGnJa)
+- 💽&nbsp;&nbsp;&nbsp;[Use Ansible to Install SQL Server on Windows](https://autodotes.com/posts/IdRTF41usMCpBJv7hb3W)
+- 🗺️&nbsp;&nbsp;&nbsp;[Map Azure AD Groups to Organization Admins](https://autodotes.com/posts/KBQBkmBTwGvThdimQTnI)
+- 👓&nbsp;&nbsp;&nbsp;[Check out the rest](https://autodotes.com/posts)
 
 <a href="https://linkedin.com/in/zleblanc"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="zleblanc"/></a>
