@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 📖 **Blogs**
-- 🏗️&nbsp;&nbsp;&nbsp;[Automated Execution Environment Builds](https://autodotes.com/posts/RcFAYQ5hdYvULmpPLCo8)
+- 🏗️&nbsp;&nbsp;&nbsp;[Automated Execution Environment Builds](https://autodotes.com/posts/lSKimsFyoJ28KE2ErKqv)
 - 🧹&nbsp;&nbsp;&nbsp;[Writing Custom Ansible Lint Rules](https://autodotes.com/posts/NZtynI0C7Pk0sdoRGnJa)
 - 💽&nbsp;&nbsp;&nbsp;[Use Ansible to Install SQL Server on Windows](https://autodotes.com/posts/IdRTF41usMCpBJv7hb3W)
 - 🗺️&nbsp;&nbsp;&nbsp;[Map Azure AD Groups to Organization Admins](https://autodotes.com/posts/KBQBkmBTwGvThdimQTnI)
